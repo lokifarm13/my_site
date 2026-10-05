@@ -1,1 +1,1 @@
-# my_site
+# Мой демонстрационный сайт HTML+CSS на Github Pages
